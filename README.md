@@ -31,8 +31,8 @@
 
 ### I post actively on ...
 
-<a href="https://www.linkedin.com/in/zain-khan-officia/" title="Huzaifa Khan" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/huzaifa-khan-officia/" title="Huzaifa Khan" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
 
 ### You can also find me on ...
 
-<a href="mailto:zainarfeen87@gmail.com" target="_blank" title="zainarfeen87@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>
+<a href="mailto:huzaifakhanofficial01@gmail.com" target="_blank" title="huzaifakhanofficial01@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>
