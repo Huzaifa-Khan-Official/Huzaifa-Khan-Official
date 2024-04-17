@@ -1,9 +1,15 @@
-## Hello👋 I'm Huzaifa Khan ‍💻 
+<h1 align="center">Hi 👋, I'm Huzaifa Khan ‍💻 </h1>
+<h3 align="center">I'm a front-end developer passionate about building innovative and user-friendly applications with a focus on scalability.</h3>
 
+- 🌱 I’m currently learning **NextJS, MongoDB, React Native and NodeJS.**
+
+- 👨‍💻 All of my projects are available at [https://huzaifa-khan.vercel.app/](https://huzaifa-khan.vercel.app/)
+
+- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, Firebase, Python and Django.**
+
+- 📫 How to reach me **huzaifakhanofficial01@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Huzaifa-Khan-Official&label=Profile%20views&color=0e75b6&style=flat" alt="Huzaifa-Khan-Official" /> </p>
-
-
 
 ![Huzaifa Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huzaifa-Khan-Official&show_icons=true&bg_color=00000000)
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Huzaifa-Khan-Official&theme=dark&background=000000"/></p>
@@ -28,10 +34,6 @@
 <a href="" title="C" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/open-std_c/open-std_c-icon~alt.svg" alt="c" width="30" height="30"/></a>&nbsp;&nbsp;
 
 
-### I post actively on ...
+<h3>Connect with me:</h3>
 
 <a href="https://www.linkedin.com/in/huzaifa-khan-officia/" title="Huzaifa Khan" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
-
-### You can also find me on ...
-
-<a href="mailto:huzaifakhanofficial01@gmail.com" target="_blank" title="huzaifakhanofficial01@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>
