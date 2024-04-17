@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **huzaifakhanofficial01@gmail.com**
 
+- 📝 See my resume: <a href="https://drive.google.com/file/d/1IpIB0nlG-oXArb5kYphPIqIEWLHf7eqa/view?usp=sharing" target="_blank">Click here ...</a>
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Huzaifa-Khan-Official&label=Profile%20views&color=0e75b6&style=flat" alt="Huzaifa-Khan-Official" /> </p>
 
 ![Huzaifa Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huzaifa-Khan-Official&show_icons=true&bg_color=00000000)
