@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Huzaifa Khan ‍💻 </h1>
 <h3 align="center">I'm a front-end developer passionate about building innovative and user-friendly applications with a focus on scalability.</h3>
 
-- 🌱 I’m currently learning **NextJS, MongoDB, React Native and NodeJS.**
+- 🌱 I’m currently learning **MongoDB, React Native and NodeJS.**
 
 - 👨‍💻 All of my projects are available at [https://huzaifa-khan.vercel.app/](https://huzaifa-khan.vercel.app/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, Firebase, Python and Django.**
+- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, ReactJS, NextJS, Firebase, Python, and Django.**
 
 - 📫 How to reach me **huzaifakhanofficial01@gmail.com**
 
@@ -28,6 +28,7 @@
 <a href="" target="_blank" title="ReactJS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="ReactJS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" alt="Redux" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="NextJs" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="30" height="30"/> </a>&nbsp;&nbsp;
+<a href="" title="TypeScript" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="30" height="30"/> </a>&nbsp;&nbsp;
 <a href="" target="_blank" title="ExpressJs" rel="noreferrer"><img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="ExpressJS" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="Postman" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Node.js" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="30" height="30"/></a>&nbsp;&nbsp;
