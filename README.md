@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Huzaifa Khan ‍💻 </h1>
 <h3 align="center">I'm a front-end developer passionate about building innovative and user-friendly applications with a focus on scalability.</h3>
 
-- 🌱 I’m currently learning **MongoDB, React Native and NodeJS.**
+- 🌱 I’m currently learning **MongoDB, React Native, Docker and NodeJS.**
 
 - 👨‍💻 All of my projects are available at [https://huzaifa-khan.vercel.app/](https://huzaifa-khan.vercel.app/)
 
@@ -26,7 +26,8 @@
 <a href="" target="_blank" title="JavaScript" rel="noreferrer"><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="JavaScript" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="FIREBASE" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="ReactJS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="ReactJS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" alt="Redux" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Redux" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" alt="Redux" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Docker" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="NextJs" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="30" height="30"/> </a>&nbsp;&nbsp;
 <a href="" title="TypeScript" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="30" height="30"/> </a>&nbsp;&nbsp;
 <a href="" target="_blank" title="ExpressJs" rel="noreferrer"><img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="ExpressJS" width="30" height="30"/></a>&nbsp;&nbsp;
