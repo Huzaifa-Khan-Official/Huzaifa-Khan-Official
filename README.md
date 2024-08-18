@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Huzaifa Khan ‍💻 </h1>
 <h3 align="center">I'm a front-end developer passionate about building innovative and user-friendly applications with a focus on scalability.</h3>
 
-- 🌱 I’m currently learning **MongoDB, React Native, Docker and NodeJS.**
+- 🌱 I’m currently learning **React Native, Docker and Java.**
 
 - 👨‍💻 All of my projects are available at [https://huzaifa-khan.vercel.app/](https://huzaifa-khan.vercel.app/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, ReactJS, NextJS, Firebase, Python, and Django.**
+- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, ReactJS, NextJS, Firebase, Python, MongoDB, ExpressJS, NodeJS and Django.**
 
 - 📫 How to reach me **huzaifakhanofficial01@gmail.com**
 
