@@ -1,5 +1,13 @@
-<h1 align="center">Hi 👋, I'm Huzaifa Khan ‍💻 </h1>
-<h3 align="center">I'm a front-end developer passionate about building innovative and user-friendly applications with a focus on scalability.</h3>
+
+<div align="center">
+
+![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=9&text=Hi%20👋,%20I'm%20Huzaifa%20Khan%20‍💻&desc=MERN%20Stack%20Developer%20|%20Crafting%20Full-Stack%20Solutions%20for%20Web%20Applications&descAlign=47&descAlignY=58&fontSize=50&fontAlign=50&fontAlignY=33)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Huzaifa-Khan-Official&data=followers,repositories,stars,commits&theme=darkmode&hide_border=true)](https://github.com/Huzaifa-Khan-Official/)
+
+</div>
+
+<h1>About:</h1>
 
 - 🌱 I’m currently learning **React Native, Docker and Java.**
 
@@ -46,3 +54,5 @@
 <h3>Connect with me:</h3>
 
 <a href="https://www.linkedin.com/in/huzaifa-khan-officia/" title="Huzaifa Khan" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
+
+![](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=9&descAlign=47&descAlignY=58&fontSize=50&fontAlign=50&fontAlignY=33&section=footer)
