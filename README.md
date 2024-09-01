@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=9&text=Hi%20👋,%20I'm%20Huzaifa%20Khan%20‍💻&desc=MERN%20Stack%20Developer%20|%20Crafting%20Full-Stack%20Solutions%20for%20Web%20Applications&descAlign=47&descAlignY=58&fontSize=50&fontAlign=50&fontAlignY=33)
+![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=9&text=Hi%20👋,%20I'm%20Huzaifa%20Khan%20‍💻&desc=MERN%20Stack%20Developer%20|%20Crafting%20Full-Stack%20Solutions%20for%20Web%20Applications&descAlign=50&descAlignY=58&fontSize=50&fontAlign=50&fontAlignY=33)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Huzaifa-Khan-Official&data=followers,repositories,stars,commits&theme=darkmode&hide_border=true)](https://github.com/Huzaifa-Khan-Official/)
 
