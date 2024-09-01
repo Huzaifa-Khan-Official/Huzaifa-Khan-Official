@@ -13,8 +13,11 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Huzaifa-Khan-Official&label=Profile%20views&color=0e75b6&style=flat" alt="Huzaifa-Khan-Official" /> </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=huzaifa-khan-official&show_icons=true&locale=en&layout=compact" alt="huzaifa-khan-official" /></p>
+
 ![Huzaifa Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huzaifa-Khan-Official&show_icons=true&bg_color=00000000)
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Huzaifa-Khan-Official&theme=dark&background=000000"/></p>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=huzaifa-khan-official&bg_color=000000&color=00ffee&line=ffffff&point=0008ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
