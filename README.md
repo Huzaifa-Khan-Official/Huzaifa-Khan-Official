@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **huzaifakhanofficial01@gmail.com**
 
-- 📝 See my resume: <a href="https://drive.google.com/file/d/1BBRb3qUzB8_Turnekc7A22OHM85vkKQd/view?usp=drivesdk" target="_blank">Click here ...</a>
+- 📝 See my resume: <a href="https://drive.google.com/file/d/1zjaeq2r3iSCVFaPJ1tQ-hNXxTwsbjKoE/view?usp=sharing" target="_blank">Click here ...</a>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Huzaifa-Khan-Official&label=Profile%20views&color=0e75b6&style=flat" alt="Huzaifa-Khan-Official" /> </p>
 
