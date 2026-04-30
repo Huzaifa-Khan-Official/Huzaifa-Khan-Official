@@ -29,27 +29,67 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=huzaifa-khan-official&bg_color=000000&color=00ffee&line=ffffff&point=0008ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### Languages And Tools:
+## 🚀 Tech Stack
 
-<a href="" title="HTML" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="CSS" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="BOOTSTRAP" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="JavaScript" rel="noreferrer"><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="JavaScript" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="FIREBASE" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="ReactJS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="Redux" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" alt="Redux" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="Docker" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="NextJs" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="30" height="30"/> </a>&nbsp;&nbsp;
-<a href="" title="TypeScript" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="30" height="30"/> </a>&nbsp;&nbsp;
-<a href="" target="_blank" title="ExpressJs" rel="noreferrer"><img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="ExpressJS" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="Postman" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="Node.js" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="Git" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="GitHub" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="PYTHON" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="DJANGO" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="C" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/open-std_c/open-std_c-icon~alt.svg" alt="c" width="30" height="30"/></a>&nbsp;&nbsp;
+### 🎨 Frontend
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/-React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+---
+
+### 🧠 Backend & APIs
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+---
+
+### 🗄️ Databases & Caching
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
+### ⚙️ DevOps & Cloud
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 🔄 Messaging & Queues
+![Kafka](https://img.shields.io/badge/-Kafka-000000?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![BullMQ](https://img.shields.io/badge/-BullMQ-EA4C89?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
+### 🧩 Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+---
+
+### 📊 Data & Visualization
+![D3.js](https://img.shields.io/badge/-D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
+![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
+
+---
+
+### 🧰 Other Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 <h3>Connect with me:</h3>
 
