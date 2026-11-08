@@ -18,7 +18,7 @@
 - 💬 Ask me about **React, Next.js, Node.js, MongoDB, PostgreSQL, Docker, Python, TensorFlow, or anything MERN**
 - 📫 Reach me at **huzaifakhanofficial01@gmail.com**
 - 🌐 Portfolio: [huzaifa-khan.vercel.app](https://huzaifa-khan.vercel.app/)
-- 📝 Resume: [View here](https://drive.google.com/file/d/16po7Y9N10usQ9NCs9l-w6Cp3uUBLoYm-/view?usp=sharing)
+- 📝 Resume: [View here](https://drive.google.com/file/d/199hezex33M9r9HqJzQNB3CgQI4Ibjmjk/view)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Huzaifa-Khan-Official&label=Profile%20views&color=0e75b6&style=flat" alt="Huzaifa-Khan-Official" />
