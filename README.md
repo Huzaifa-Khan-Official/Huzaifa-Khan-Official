@@ -14,7 +14,6 @@
 - 🤖 AI, ML & Deep Learning Graduate — Completed **AI, Machine Learning & Deep Learning** training at **IBA, CICT (2026)**.
 - 👨‍🏫 **Web & App Dev Trainer @SMIT** — mentored **100+ students** in real-world projects
 - 🎓 **BS Computer Science** student at **UBIT, University of Karachi**
-- 🛠 Working as **Full Stack Developer @FoxMind Tech** (Remote)
 - 💼 **Full Stack Developer @ FoxMind Tech** — worked remotely, developing and maintaining full-stack applications.
 - 💬 Ask me about **React, Next.js, Node.js, MongoDB, PostgreSQL, Docker, Python, TensorFlow, or anything MERN**
 - 📫 Reach me at **huzaifakhanofficial01@gmail.com**
